@@ -1,2 +1,4 @@
 datasets
 models
+/backend/myenv
+/backend/golden_trio.h5
