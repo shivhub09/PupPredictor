@@ -1,4 +1,6 @@
-datasets
-models
+deepLearning/datasets
+deepLearning/logs
+deepLearning/testing
+deepLearning/models
 /backend/myenv
 /backend/golden_trio.h5
