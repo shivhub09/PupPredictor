@@ -27,8 +27,8 @@ The project consists of a machine learning model for dog breed classification an
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/dog-breed-classifier.git
-    cd dog-breed-classifier
+    git clone https://github.com/shivhub09/PupPredictor.git
+    cd deepLearning
     ```
 
 2. Install the required Python packages:
