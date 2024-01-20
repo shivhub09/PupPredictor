@@ -1,1 +1,1 @@
-This is the project in machine learning specifically in the domain of deep learning which will be used to detect the different breeds of the dogs.
+<h1>PupPredictor</h1>
