@@ -2,7 +2,7 @@ import requests
 
 api_url = "http://127.0.0.1:5000/"
 
-image_path = 'beagle.jpg'
+image_path = 'images115.jpg'
 
 with open(image_path, 'rb') as file:
     files = {'image': (image_path, file, 'image/jpeg')}
