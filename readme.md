@@ -1,4 +1,4 @@
-# PupPredictor
+# PupPredictor : Predict The Dog Breed Today
 
 This project is a dog breed classifier that can predict the breed of a dog from an input image. The classifier currently supports four dog breeds: Beagle, Husky, Golden Retriever, and German Shepherd.
 
@@ -11,7 +11,7 @@ This project is a dog breed classifier that can predict the breed of a dog from 
 - [Flask Integration](#flask-integration)
   - [API Endpoint](#api-endpoint)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Project Overview
 
@@ -55,14 +55,13 @@ The project consists of a machine learning model for dog breed classification an
 
 The machine learning model was trained using a dataset of labeled dog images. The training script and model architecture can be found in the `train_model` directory.
 
-To train the model:
+To check the model code:
 
 ```bash
-cd train_model
-python train.py
+cd deepLearning
 ```
 
-This will save the trained model as a file named `dog_breed_classifier_model.h5` in the `models` directory.
+This will save the trained model as a file named `golden_trio.h5` in the `models` directory.
 
 ## Flask Integration
 
@@ -106,6 +105,6 @@ streamlit run app.py
 
 Feel free to contribute to this project. Please follow the [contributing guidelines](CONTRIBUTING.md) for more information.
 
-## License
+
 
 
